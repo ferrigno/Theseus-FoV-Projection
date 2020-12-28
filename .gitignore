@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.astropy/
+.jupyter/
+.local/
+GW170817_THESEUS_FOV_.zip
+GW170817_THESEUS_FOV_onlyXGIS.png
+GW170817_THESEUS_FOV_withSXI.png
+GW170817_skymap.fits
+THS-INAF-XGIS-MD-0004_Instrument_description_2.2.pdf
+bayestar_no_virgo.fits.gz
+
